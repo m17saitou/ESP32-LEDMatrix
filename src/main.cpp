@@ -109,7 +109,7 @@ void loop() {
             }
         }
 
-        for (int cnt = 0; cnt < 20; cnt++) {
+        for (int cnt = 0; cnt < 12; cnt++) {
             for (int anode = 0; anode < 16; anode++) {
                 delayMicroseconds(300);
 
